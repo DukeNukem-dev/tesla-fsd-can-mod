@@ -1,5 +1,8 @@
 # CanFeather – Tesla FSD CAN Bus Enabler
 
+### CREDIT: Original build posted by Starmixcraft on gitlab, original branch removed shortly after publication. Original main branch URL: https://gitlab.com/Starmixcraft/tesla-fsd-can-mod
+
+
 > **Why is this public?** Some sellers — such as Michal Gapinski — charge up to 500 € for a solution like this. In our opinion, that is massively overpriced. The board costs around 20 €, and even with labor factored in, a fair price is no more than 50 €. This project exists so nobody has to overpay.
 
 ## What It Does
@@ -86,3 +89,6 @@ Connect the Feather's CAN-H and CAN-L lines to pins 13 and 14 on the X179 connec
 ## Serial Monitor
 
 Open the Serial Monitor at **115200 baud** to see live debug output showing FSD state and the active speed profile. Disable logging by setting `enablePrint = false`.
+
+
+### CREDIT: Original build posted by Starmixcraft on gitlab, original branch removed shortly after publication. Original main branch URL: https://gitlab.com/Starmixcraft/tesla-fsd-can-mod
